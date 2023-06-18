@@ -1,0 +1,4 @@
+- A ReactJS web-application that utilizes OpenAI to condense highlights from online articles with precision.
+- Integrated Redux-Toolkit for making Redux-Toolkit query API requests that fire on condition.
+- Utilized apidAPI to extract and summarize information by providing article URLs.
+- Project Link : https://fluxcy.github.io/highlite/
